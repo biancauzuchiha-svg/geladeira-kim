@@ -1,0 +1,27 @@
+body {
+    background-color: #f0f0f0; /* cor de fundo */
+    text-align: center;        /* centraliza todo conteúdo */
+    font-family: Arial, sans-serif; /* fonte */
+}
+
+h1 {
+    color: #ff0066; /* título rosa */
+}
+
+h2 {
+    color: #0066ff; /* subtítulo azul */
+}
+
+img {
+    margin: 10px;
+    border-radius: 10px; /* bordas arredondadas */
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #00cc66;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
